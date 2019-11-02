@@ -1,0 +1,85 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: cornflowerblue;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    align-items: center;
+
+}
+
+.container {
+    background-color: darkgrey;
+    width: 470px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+}
+
+.icon {
+    background-color: skyblue;
+}
+
+.icon img {
+    border-radius: 50%;
+    border-width: 4px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+.info {
+    background-color: brown;
+    margin-left: 32px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+section {
+    background-color: darkgreen;
+    
+}
+
+.works > h1 {
+    font-weight: normal;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.works {
+    margin-bottom: 60px;
+}
+
+.works > h1 {
+    font-weight: normal;
+}
+
+.works > ul > h1 {
+    font-weight: normal;
+}
+
+.works > ul > h2 {
+    font-weight: normal;
+}
+
+.works > ul > .appIcon img {
+    border-radius: 13%;
+}
+
+.works p {
+    line-height: 1.8;
+}
+
+footer > p {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 60px;
+    background-color: snow;
+}
