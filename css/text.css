@@ -10,6 +10,14 @@ header {
 
 }
 
+.fa-facebook-square {
+    color: blue;
+}
+
+.fa-github-square {
+    color: black;
+}
+
 .container {
     background-color: darkgrey;
     width: 470px;
