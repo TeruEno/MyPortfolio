@@ -61,15 +61,15 @@ section {
     font-weight: normal;
 }
 
-.works > ul > h1 {
+.works > div > h1 {
     font-weight: normal;
 }
 
-.works > ul > h2 {
+.works > div > h2 {
     font-weight: normal;
 }
 
-.works > ul > .appIcon img {
+.works > div > .appIcon img {
     border-radius: 13%;
 }
 
