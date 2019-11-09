@@ -85,6 +85,39 @@ section {
     line-height: 1.8;
 }
 
+
+.skills > h1 {
+    font-weight: normal;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.skills {
+    margin-bottom: 60px;
+}
+
+.skills > h1 {
+    font-weight: normal;
+}
+
+.skills > div > h1 {
+    font-weight: normal;
+}
+
+.skills > div > h2 {
+    font-weight: normal;
+}
+
+.skills > div > .appIcon img {
+    border-radius: 13%;
+}
+
+.skills p {
+    line-height: 1.8;
+}
+
 footer > p {
     text-align: center;
     font-size: 14px;
